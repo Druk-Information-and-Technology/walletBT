@@ -28,6 +28,7 @@ npx expo start
 ```
 
 # Contrubution to the walletBT
-If you want to contribute, feel free to send the pull request. 
+If you want to contribute, feel free to send the pull request.\\
+If you like the project, then feel free to give it a star ⭐
 
 
