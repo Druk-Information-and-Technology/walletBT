@@ -3,9 +3,11 @@ This walletBT mobile crypto wallet was developed using React Native and Ethers f
 The current implementation of the walletBT is just for the Sepolia Test Network. But it can be easily implemented for the Mainnet as well.
 
 ## Functionalities
-1. View Account Information: You can view your account address, balance, and private key.
-2. Send Ether(s): You will be able to send Ether(s) to any valid account in Ethereum Network(Sepolia Test Network).
-3. View Transaction History: You will be able to view the last 100 transactions.
+1. Create Wallet: You will be able to create 10 accounts.
+2. View Account Information: You can view your account address, balance, and private key.
+3. Send Ether(s): You will be able to send Ether(s) to any valid account in Ethereum Network(Sepolia Test Network).
+4. View Transaction History: You will be able to view the last 100 transactions.
+5. Recover Wallet: You will be able to recover the wallet with the mnemonic phrase that you used to create the account.
 
 # How to Replicate the walletBT
 ## First, clone the application inside your development machine
