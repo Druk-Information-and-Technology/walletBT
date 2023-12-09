@@ -1,5 +1,5 @@
 # walletBT
-This walletBT mobile crypto wallet was developed using React Native and Ethers for the Ethereum network. 
+This walletBT mobile crypto wallet was developed using React Native and Ethers for the Ethereum network. We are using the Expo managed workflow for the app development.
 The current implementation of the walletBT is just for the Sepolia Test Network. But it can be easily implemented for the Mainnet as well.
 
 # How to Replicate the walletBT
