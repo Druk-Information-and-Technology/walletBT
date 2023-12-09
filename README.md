@@ -4,7 +4,7 @@ The current implementation of the walletBT is just for the Sepolia Test Network.
 
 ## Functionalities
 1. View Account Information: You can view your account address, balance, and private key.
-2. Send Ether(s): You will be able to send Ether(s) to any valid account in Ethereum (Sepolia Test Network).
+2. Send Ether(s): You will be able to send Ether(s) to any valid account in Ethereum Network(Sepolia Test Network).
 3. View Transaction History: You will be able to view the last 100 transactions.
 
 # How to Replicate the walletBT
